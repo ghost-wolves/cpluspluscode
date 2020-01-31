@@ -1,5 +1,6 @@
 # cpluspluscode
 **C++ Coding Exercises**
+
 My completed exercises from the book C++ Crash Course by Josh Lospinso.
 
 ### Exercise 1 - Absolute Value / Sum
