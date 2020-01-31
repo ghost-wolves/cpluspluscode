@@ -5,4 +5,4 @@
 Finds the absolute value of a number and the sum of two numbers.
 
 ### Exercise 2 - Calculator Operation
-Creates a simple calculator that can add, subtract, multiply and divide. Uses enum class, constructors and methods.
+Creates a simple calculator that can add, subtract, multiply and divide. Uses an enum class, constructors and methods.
