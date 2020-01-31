@@ -1,5 +1,4 @@
-# cpluspluscode
-**C++ Coding Exercises**
+# C++ Coding Exercises
 
 My completed exercises from the book C++ Crash Course by Josh Lospinso.
 
