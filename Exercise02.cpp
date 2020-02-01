@@ -1,3 +1,5 @@
+// Exercise 2 - Creates a simple calculator that can add, subtract, multiply and divide. Uses an enum class, constructors and methods.
+
 #include <cstdio>
 
 enum class Operation {
