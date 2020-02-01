@@ -49,5 +49,4 @@ int main() {
 
 	write_to('$', 0, upper);
 	read_from(upper);
-
 }
