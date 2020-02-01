@@ -27,6 +27,7 @@ void write_to(char c, int z, char s[]) {
 		}
 	}
 }
+
 int main() {
 	char lower[] = "abc?e";
 	char upper[] = "ABC?E";
