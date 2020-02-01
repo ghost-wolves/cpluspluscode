@@ -1,6 +1,9 @@
+/* Exercise 3 - 
+Creates two char arrays and both a read and write function that can both read/print the arrays and write to them. 
+The function also checks for buffer overflows and will not execute if a call is made outside the array. */
+
 #include <cstdio>
 #include <iterator>
-
 
 using namespace std;
 
