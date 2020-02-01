@@ -10,3 +10,6 @@ Creates a simple calculator that can add, subtract, multiply and divide. Uses an
 
 ### Exercise 3 - Array Manipulation
 Creates two char arrays and both a read and write function that can both read/print the arrays and write to them. The function also checks for buffer overflows and will not execute if a call is made outside the array.
+
+### Miscellaneous 1 - Undergrad
+A C++ Program that uses STL and inheritance to output and organize student information read from a file.
