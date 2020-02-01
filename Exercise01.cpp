@@ -1,3 +1,5 @@
+// Exercise 1 - Finds the absolute value of a number and the sum of two numbers.
+
 #include <cstdio>
 
 int absolute_value(int x) {
