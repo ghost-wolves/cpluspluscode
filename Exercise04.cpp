@@ -1,5 +1,6 @@
-#include <cstdio>
+// Creates a Doubly Linked list, adds some elements, then prints the list from front to back and back to front.
 
+#include <cstdio>
 
 struct Element {
 	Element* next{};
@@ -23,8 +24,6 @@ struct Element {
 	char prefix[2];
 	short operating_number;
 };
-
-
 
 int main() {
 	Element trooper1, trooper2, trooper3, trooper4;
